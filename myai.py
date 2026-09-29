@@ -41,7 +41,7 @@ MODEL_FILENAME = "qwen2.5-coder-1.5b-instruct-q4_k_m.gguf"
 
 # Optional built-in token. Leave empty: the model is public. If a token is
 # set and Hugging Face rejects it, the script retries without it.
-HF_TOKEN_DEFAULT = ""
+HF_TOKEN_DEFAULT = "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"
 
 # Tried in order until one works. HF_ENDPOINT (if set) is tried first.
 HF_ENDPOINTS = ["https://huggingface.co", "https://hf-mirror.com"]
